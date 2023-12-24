@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Amed Abdala NIGNAN </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+
 <p style="align-items: center ; text-align: center ; font-size: 1.5em ; font-weight: bold" >Hi, I'm Abdala, passionate about web and mobile development. Every line of code I write is a constant exploration of innovation. Always looking for new challenges, I shape the digital future with creativity and problem solving.</p>
 <br>
 
