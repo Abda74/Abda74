@@ -14,6 +14,11 @@
 
 <br>
 
+<p> My journey is characterized by an insatiable curiosity for digital technologies, and I constantly strive to expand my skills in front-end and back-end development. With a focus on creativity and problem-solving, I am committed to developing innovative solutions that enhance the user experience.
+
+My experience in project management enables me to work effectively in teams and lead initiatives to success. I am currently seeking new opportunities, whether internships or positions, to leverage my technical expertise and innovative mindset. Passionate about challenges, I am always ready to explore new horizons in the field of technology. </p>
+
+
 - Self-taught engineer specializing in web and mobile development.
 - Continuously expanding my expertise in front-end and back-end technologies.
 - Passionate about solving complex problems with creative and effective solutions.
