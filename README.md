@@ -106,16 +106,42 @@
 
 
 <br>
+
+ **Social**
+ 
 <div align='left'>
 
 <ul>
-
+	
 <li>
 <a href="https://linkedin.com/in/amed-abdala-nignan-07b42a1a7/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
+<li>
+<a href="https:///x.com/home" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+</li>
+
+<li>
+  <a href="mailto:nignanamed0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</li>
+
+<li>
+  <a href="https://wa.me/0022674650133" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</li>
+
+<li>
+  <a href="https://web.facebook.com/profile.php?id=100078413834263" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</li>
 <br>
 
 <br>
