@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Amed Abdala NIGNAN </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p style="align-items: center ; text-align: center ; font-size: 1.5em ; font-weight: bold" >Hi, I'm Abdala, passionate about web and mobile development. Every line of code I write is a constant exploration of innovation. Always looking for new challenges, I shape the digital future with creativity and problem solving.</p>
+<p style="align-items: center ; text-align: center ; font-size: 1.5em ; font-weight: bold" >I am a computer engineer passionate about web and mobile development. My goal is to create innovative digital solutions by combining creativity and technical expertise to push the boundaries of technology.</p>
 <br>
 
 
@@ -13,9 +13,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development and mobile Development
-- I’m currently open for an Intern or a new job opportunity,
+- Self-taught engineer specializing in web and mobile development.
+- Continuously expanding my expertise in front-end and back-end technologies.
+- Passionate about solving complex problems with creative and effective solutions.
+- Open to new job opportunities or internship roles where I can leverage my skills and innovative mindset
 
 <br><br>
 
