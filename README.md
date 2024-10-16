@@ -91,7 +91,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
- ![Stats](https://github-readme-stats.vercel.app/api?username={abda74}&theme=blue-green)
+ ![Stats](https://github.com/Abda74/api?username={username}&theme=blue-green)
 
 
 <br>
