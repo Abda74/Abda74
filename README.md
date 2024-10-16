@@ -91,6 +91,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+ ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abda74&theme=blue-green)
  ![Stats](https://github-readme-stats.vercel.app/api?username=Abda74&theme=blue-green)
 
 
