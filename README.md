@@ -109,7 +109,7 @@
 
  **Social**
  
-<div align='left'>
+<div align='left' display ="flex">
 
 <ul>
 	
