@@ -74,7 +74,7 @@
 - **Extras**:  
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-   ![WebSite](https://img.shields.io/website-up-down-green-red) website: (http://solistech.netlify.app)
+   ![WebSite](https://img.shields.io/website-up-down-green-red/https://images.app.goo.gl/THJ9H1jf7UbRUbgJ8) website: (http://solistech.netlify.app)
    
 
 
