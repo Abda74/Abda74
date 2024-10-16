@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<img align="right" src="https://drive.google.com/file/d/1w5JrRe8W9HHUc8gRKuqyj_qXl4QMXX1G/view?usp=sharing" width = 500px height = 500px>
+<img align="right" src="https://drive.google.com/file/d/1w5JrRe8W9HHUc8gRKuqyj_qXl4QMXX1G/view?usp=drive_link" width = 500px height = 500px>
 
 <br>
 
